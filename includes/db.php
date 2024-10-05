@@ -2,7 +2,7 @@
 //Se declaran las variables
 $servidor = "localhost";
 $usuario = "root";
-$contraseña= "";
+$contraseña = "";
 $BD = "tarea_programacion";
 
 

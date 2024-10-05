@@ -9,7 +9,7 @@ $resultado = $conexion->query("SELECT * FROM usuarios");
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Listado</title>
 </head>
 <body>
     <style>

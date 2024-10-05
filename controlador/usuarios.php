@@ -25,8 +25,8 @@ if ($operacion == "new") {
     $sentencia->execute();
     
 }
+//aca van a estar todas las operaciones que podes realizar en el formulario
 
 header("Location: /tareanueva/views/usuarios/listado.php");
-//aca van a estar todas las operaciones que podes realizar en el formulario
 
 ?>
